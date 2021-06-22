@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataSource name="smarty@localhost">
+  <database-model serializer="dbm" rdbms="MYSQL" format-version="4.1">
+    <root id="1"/>
+    <schema id="2" parent="1" name="smarty">
+      <Current>1</Current>
+      <Visible>1</Visible>
+    </schema>
+    <schema id="3" parent="1" name="autosalon"/>
+    <schema id="4" parent="1" name="basket_watch"/>
+    <schema id="5" parent="1" name="captcha"/>
+    <schema id="6" parent="1" name="information_schema"/>
+    <schema id="7" parent="1" name="korzina"/>
+    <schema id="8" parent="1" name="musicshop"/>
+    <schema id="9" parent="1" name="mysql"/>
+    <schema id="10" parent="1" name="parfume_shop"/>
+    <schema id="11" parent="1" name="performance_schema"/>
+    <schema id="12" parent="1" name="searchvakant"/>
+    <schema id="13" parent="1" name="shop"/>
+    <schema id="14" parent="1" name="sushi"/>
+    <schema id="15" parent="1" name="sys"/>
+    <schema id="16" parent="1" name="smartyJawelry"/>
+    <table id="17" parent="2" name="categories"/>
+    <table id="18" parent="2" name="setting_page"/>
+    <table id="19" parent="2" name="user"/>
+    <table id="20" parent="2" name="watch"/>
+    <column id="21" parent="17" name="id">
+      <Position>1</Position>
+      <DataType>int(11)|0</DataType>
+      <NotNull>1</NotNull>
+      <SequenceIdentity>1</SequenceIdentity>
+    </column>
+    <column id="22" parent="17" name="name">
+      <Position>2</Position>
+      <DataType>varchar(255)|0</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <key id="23" parent="17" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <ColNames>id</ColNames>
+      <Primary>1</Primary>
+    </key>
+    <column id="24" parent="18" name="id">
+      <Position>1</Position>
+      <DataType>int(11)|0</DataType>
+      <NotNull>1</NotNull>
+      <SequenceIdentity>1</SequenceIdentity>
+    </column>
+    <column id="25" parent="18" name="meta_title">
+      <Position>2</Position>
+      <DataType>varchar(255)|0</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <column id="26" parent="18" name="meta_description">
+      <Position>3</Position>
+      <DataType>varchar(255)|0</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <column id="27" parent="18" name="meta_keybords">
+      <Position>4</Position>
+      <DataType>varchar(255)|0</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <column id="28" parent="18" name="title">
+      <Position>5</Position>
+      <DataType>varchar(50)|0</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <column id="29" parent="18" name="full_content">
+      <Position>6</Position>
+      <DataType>text|0</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <column id="30" parent="18" name="page">
+      <Position>7</Position>
+      <DataType>varchar(25)|0</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <column id="31" parent="18" name="name_page">
+      <Position>8</Position>
+      <DataType>varchar(25)|0</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <column id="32" parent="18" name="priore">
+      <Position>9</Position>
+      <DataType>int(11)|0</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <key id="33" parent="18" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <ColNames>id</ColNames>
+      <Primary>1</Primary>
+    </key>
+    <column id="34" parent="19" name="id">
+      <Position>1</Position>
+      <DataType>int(11)|0</DataType>
+      <NotNull>1</NotNull>
+      <SequenceIdentity>1</SequenceIdentity>
+    </column>
+    <column id="35" parent="19" name="name">
+      <Position>2</Position>
+      <DataType>varchar(25)|0</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <column id="36" parent="19" name="email">
+      <Position>3</Position>
+      <DataType>varchar(150)|0</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <column id="37" parent="19" name="phone">
+      <Position>4</Position>
+      <DataType>varchar(17)|0</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <column id="38" parent="19" name="login">
+      <Position>5</Position>
+      <DataType>varchar(25)|0</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <column id="39" parent="19" name="password">
+      <Position>6</Position>
+      <DataType>varchar(40)|0</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <column id="40" parent="19" name="role">
+      <Position>7</Position>
+      <DataType>tinyint(4)|0</DataType>
+      <NotNull>1</NotNull>
+      <DefaultExpression>&apos;2&apos;</DefaultExpression>
+    </column>
+    <column id="41" parent="19" name="avatar">
+      <Position>8</Position>
+      <DataType>varchar(255)|0</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <key id="42" parent="19" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <ColNames>id</ColNames>
+      <Primary>1</Primary>
+    </key>
+    <column id="43" parent="20" name="id">
+      <Position>1</Position>
+      <DataType>int(11)|0</DataType>
+      <NotNull>1</NotNull>
+      <SequenceIdentity>1</SequenceIdentity>
+    </column>
+    <column id="44" parent="20" name="meta_title">
+      <Position>2</Position>
+      <DataType>varchar(255)|0</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <column id="45" parent="20" name="meta_description">
+      <Position>3</Position>
+      <DataType>varchar(255)|0</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <column id="46" parent="20" name="meta_keybords">
+      <Position>4</Position>
+      <DataType>varchar(255)|0</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <column id="47" parent="20" name="name">
+      <Position>5</Position>
+      <DataType>varchar(50)|0</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <column id="48" parent="20" name="price">
+      <Position>6</Position>
+      <DataType>decimal(12)|0</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <column id="49" parent="20" name="full_discription">
+      <Position>7</Position>
+      <DataType>text|0</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <column id="50" parent="20" name="kolvo">
+      <Position>8</Position>
+      <DataType>int(11)|0</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <column id="51" parent="20" name="photo">
+      <Position>9</Position>
+      <DataType>varchar(255)|0</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <column id="52" parent="20" name="id_cat">
+      <Position>10</Position>
+      <DataType>int(11)|0</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <key id="53" parent="20" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <ColNames>id</ColNames>
+      <Primary>1</Primary>
+    </key>
+  </database-model>
+</dataSource>

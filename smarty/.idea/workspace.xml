@@ -1,0 +1,1044 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="04609ec7-e9a9-4661-bdb6-e42f68893f97" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$Root" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="smarty@localhost" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+    </PATH>
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$Root" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="smarty@localhost" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="smarty" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="watch" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+    </PATH>
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$Root" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="smarty@localhost" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="smarty" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+    </PATH>
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$Root" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="smarty@localhost" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="smarty" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="categories" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+    </PATH>
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="main.tpl" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/main.tpl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="305">
+              <caret line="158" column="14" lean-forward="true" selection-start-line="158" selection-start-column="14" selection-end-line="158" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="basket.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/basket.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+              <folding>
+                <marker date="1624376350190" expanded="true" signature="638:685" ph="Select name,... watch" />
+                <marker date="1624376350190" expanded="true" signature="638:698" ph="Select id,na... watch" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="order.tpl" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/templates/order.tpl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" column="14" lean-forward="true" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1105">
+              <caret line="74" column="5" lean-forward="false" selection-start-line="74" selection-start-column="5" selection-end-line="74" selection-end-column="5" />
+              <folding>
+                <marker date="1623654633819" expanded="true" signature="749:853" ph="Select meta_... setting_page" />
+                <marker date="1623654633819" expanded="true" signature="1873:1932" ph="Select page,... setting_page" />
+                <marker date="1623654633819" expanded="true" signature="2340:2370" ph="Select id,na... categories" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="order.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/order.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="30" lean-forward="true" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+              <folding>
+                <marker date="1624376863204" expanded="true" signature="246:279" ph="Select kolvo... watch" />
+                <marker date="1624376863204" expanded="true" signature="246:292" ph="Select kolvo... watch" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index_cat.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/index_cat.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="23" column="32" lean-forward="false" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
+              <folding>
+                <marker date="1618299240721" expanded="true" signature="390:420" ph="Select id,na... categories" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="card.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/card.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="26" column="11" lean-forward="false" selection-start-line="26" selection-start-column="11" selection-end-line="26" selection-end-column="11" />
+              <folding>
+                <marker date="1623613011663" expanded="true" signature="102:122" ph="Select id fr... watch" />
+                <marker date="1623613011663" expanded="true" signature="388:447" ph="Select id,na... watch" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="card.tpl" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/card.tpl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="41" lean-forward="false" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="listalka.tpl" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/listalka.tpl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" column="13" lean-forward="false" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>template</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/admin/edit_page.php" />
+        <option value="$PROJECT_DIR$/admin/edit_cat.php" />
+        <option value="$PROJECT_DIR$/admin/templates/edit_watch.tpl" />
+        <option value="$PROJECT_DIR$/admin/edit_watch.php" />
+        <option value="$PROJECT_DIR$/admin/index.html" />
+        <option value="$PROJECT_DIR$/admin/templates/index_watch.tpl" />
+        <option value="$PROJECT_DIR$/admin/index_watch.php" />
+        <option value="$PROJECT_DIR$/admin/templates/index_cat.tpl" />
+        <option value="$PROJECT_DIR$/admin/templates/user.tpl" />
+        <option value="$PROJECT_DIR$/admin/templates/login.tpl" />
+        <option value="$PROJECT_DIR$/admin/header.php" />
+        <option value="$PROJECT_DIR$/admin/404.html" />
+        <option value="$PROJECT_DIR$/admin/404.css" />
+        <option value="$PROJECT_DIR$/admin/templates/main.tpl" />
+        <option value="$PROJECT_DIR$/admin/index_cat.php" />
+        <option value="$PROJECT_DIR$/admin/login.php" />
+        <option value="$PROJECT_DIR$/admin/exit.php" />
+        <option value="$PROJECT_DIR$/admin/user.php" />
+        <option value="$PROJECT_DIR$/admin/index.php" />
+        <option value="$PROJECT_DIR$/admin/Simple Error/4040.html" />
+        <option value="$PROJECT_DIR$/admin/4040.html" />
+        <option value="$PROJECT_DIR$/templates/cataloge.tpl" />
+        <option value="$PROJECT_DIR$/templates/info_id.tpl" />
+        <option value="$PROJECT_DIR$/info_id.php" />
+        <option value="$PROJECT_DIR$/templates/filtr.tpl" />
+        <option value="$PROJECT_DIR$/filtr.php" />
+        <option value="$PROJECT_DIR$/templates/sort.tpl" />
+        <option value="$PROJECT_DIR$/sort.php" />
+        <option value="$PROJECT_DIR$/filtr_sort.php" />
+        <option value="$PROJECT_DIR$/templates/filtr_sort.tpl" />
+        <option value="$PROJECT_DIR$/listalka.php" />
+        <option value="$PROJECT_DIR$/templates/listalka.tpl" />
+        <option value="$PROJECT_DIR$/templates/listalka_filtr.tpl" />
+        <option value="$PROJECT_DIR$/listalka_filtr.php" />
+        <option value="$PROJECT_DIR$/listalka_sort.php" />
+        <option value="$PROJECT_DIR$/templates/listalka_sort.tpl" />
+        <option value="$PROJECT_DIR$/admin/test.php" />
+        <option value="$PROJECT_DIR$/templates/listalka_sort_filrt.tpl" />
+        <option value="$PROJECT_DIR$/listalka_sort_filtr.php" />
+        <option value="$PROJECT_DIR$/templates/search.tpl" />
+        <option value="$PROJECT_DIR$/cataloge.php" />
+        <option value="$PROJECT_DIR$/templates/basket.tpl" />
+        <option value="$PROJECT_DIR$/search.php" />
+        <option value="$PROJECT_DIR$/card.php" />
+        <option value="$PROJECT_DIR$/header.php" />
+        <option value="$PROJECT_DIR$/main.php" />
+        <option value="$PROJECT_DIR$/templates/card.tpl" />
+        <option value="$PROJECT_DIR$/templates/main.tpl" />
+        <option value="$PROJECT_DIR$/basket.php" />
+        <option value="$PROJECT_DIR$/order.php" />
+        <option value="$PROJECT_DIR$/templates/order.tpl" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-7" />
+    <option name="width" value="1378" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="smarty" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="smarty" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="smarty" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="smarty" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../korzina" />
+    <property name="settings.editor.selected.configurable" value="web.server" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\OpenServer\domains\smarty\admin" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CodeceptionConfigurationType" factoryName="Codeception">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="04609ec7-e9a9-4661-bdb6-e42f68893f97" name="Default" comment="" />
+      <created>1611647927017</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611647927017</updated>
+      <workItem from="1611647929382" duration="729000" />
+      <workItem from="1611649425113" duration="1795000" />
+      <workItem from="1611672027544" duration="1570000" />
+      <workItem from="1611673792685" duration="1190000" />
+      <workItem from="1611675612164" duration="597000" />
+      <workItem from="1612250009183" duration="1721000" />
+      <workItem from="1612251813603" duration="2061000" />
+      <workItem from="1612253905337" duration="1099000" />
+      <workItem from="1612255724034" duration="646000" />
+      <workItem from="1612720705515" duration="1108000" />
+      <workItem from="1612722598321" duration="609000" />
+      <workItem from="1612803683290" duration="1764000" />
+      <workItem from="1612853533376" duration="1299000" />
+      <workItem from="1612855346463" duration="743000" />
+      <workItem from="1612857287241" duration="1790000" />
+      <workItem from="1612859143644" duration="2848000" />
+      <workItem from="1613141458535" duration="1694000" />
+      <workItem from="1613143218371" duration="506000" />
+      <workItem from="1613566079044" duration="1643000" />
+      <workItem from="1613567889977" duration="2150000" />
+      <workItem from="1613570291708" duration="871000" />
+      <workItem from="1613572256777" duration="1922000" />
+      <workItem from="1614074208202" duration="1746000" />
+      <workItem from="1614076020304" duration="742000" />
+      <workItem from="1614077856196" duration="1719000" />
+      <workItem from="1614079772189" duration="1860000" />
+      <workItem from="1614081661703" duration="1820000" />
+      <workItem from="1614083513399" duration="1125000" />
+      <workItem from="1614369829980" duration="704000" />
+      <workItem from="1614373835569" duration="1014000" />
+      <workItem from="1614590580231" duration="1288000" />
+      <workItem from="1614591925085" duration="2083000" />
+      <workItem from="1614668969512" duration="1555000" />
+      <workItem from="1614670997634" duration="2743000" />
+      <workItem from="1614673782918" duration="2052000" />
+      <workItem from="1615046720063" duration="1294000" />
+      <workItem from="1615274419905" duration="1639000" />
+      <workItem from="1615276207311" duration="2311000" />
+      <workItem from="1615278550035" duration="1787000" />
+      <workItem from="1615280411228" duration="630000" />
+      <workItem from="1615368714833" duration="1708000" />
+      <workItem from="1615370478485" duration="1373000" />
+      <workItem from="1615878716822" duration="1677000" />
+      <workItem from="1615880495011" duration="1731000" />
+      <workItem from="1615882257250" duration="1782000" />
+      <workItem from="1615884073294" duration="585000" />
+      <workItem from="1616423305701" duration="263000" />
+      <workItem from="1616423675925" duration="1910000" />
+      <workItem from="1616425747651" duration="1797000" />
+      <workItem from="1616427691237" duration="1532000" />
+      <workItem from="1616429541672" duration="2291000" />
+      <workItem from="1616431923419" duration="1850000" />
+      <workItem from="1616439875018" duration="1980000" />
+      <workItem from="1616441890366" duration="1529000" />
+      <workItem from="1616493487270" duration="952000" />
+      <workItem from="1616504273579" duration="1540000" />
+      <workItem from="1616506546263" duration="1627000" />
+      <workItem from="1616508440155" duration="678000" />
+      <workItem from="1616599201229" duration="1035000" />
+      <workItem from="1616601181825" duration="599000" />
+      <workItem from="1616603005741" duration="1454000" />
+      <workItem from="1616612302728" duration="1806000" />
+      <workItem from="1616614175626" duration="2029000" />
+      <workItem from="1616616264071" duration="1802000" />
+      <workItem from="1616618109885" duration="1603000" />
+      <workItem from="1616620797068" duration="217000" />
+      <workItem from="1616665392921" duration="598000" />
+      <workItem from="1616858852040" duration="1623000" />
+      <workItem from="1616860835057" duration="1427000" />
+      <workItem from="1616862696854" duration="944000" />
+      <workItem from="1616864650007" duration="1578000" />
+      <workItem from="1617022723535" duration="1043000" />
+      <workItem from="1617024392448" duration="1412000" />
+      <workItem from="1617026291681" duration="1247000" />
+      <workItem from="1617028091576" duration="1422000" />
+      <workItem from="1617030931740" duration="431000" />
+      <workItem from="1617083565813" duration="1721000" />
+      <workItem from="1617085481430" duration="2084000" />
+      <workItem from="1617087610055" duration="1605000" />
+      <workItem from="1617089466729" duration="1807000" />
+      <workItem from="1617190276332" duration="1868000" />
+      <workItem from="1617192199412" duration="1826000" />
+      <workItem from="1617194085759" duration="1299000" />
+      <workItem from="1617285533538" duration="1223000" />
+      <workItem from="1617287464603" duration="596000" />
+      <workItem from="1617289383616" duration="598000" />
+      <workItem from="1617623026645" duration="1501000" />
+      <workItem from="1617629913272" duration="1200000" />
+      <workItem from="1617688781220" duration="1795000" />
+      <workItem from="1617690665861" duration="1152000" />
+      <workItem from="1617692449582" duration="1801000" />
+      <workItem from="1617694308076" duration="1744000" />
+      <workItem from="1617801859219" duration="599000" />
+      <workItem from="1617803725619" duration="598000" />
+      <workItem from="1617805746587" duration="599000" />
+      <workItem from="1617808097855" duration="599000" />
+      <workItem from="1617810437949" duration="594000" />
+      <workItem from="1618229244525" duration="913000" />
+      <workItem from="1618231074224" duration="1759000" />
+      <workItem from="1618232891579" duration="1991000" />
+      <workItem from="1618235615325" duration="1186000" />
+      <workItem from="1618239365525" duration="1339000" />
+      <workItem from="1618293702166" duration="1503000" />
+      <workItem from="1618295717112" duration="1765000" />
+      <workItem from="1618297542535" duration="1788000" />
+      <workItem from="1618299377657" duration="1495000" />
+      <workItem from="1618311548967" duration="62000" />
+      <workItem from="1618312212380" duration="1727000" />
+      <workItem from="1618314009473" duration="1513000" />
+      <workItem from="1618315849243" duration="598000" />
+      <workItem from="1618335056079" duration="1200000" />
+      <workItem from="1618336809725" duration="880000" />
+      <workItem from="1618406613396" duration="312000" />
+      <workItem from="1618406996943" duration="1705000" />
+      <workItem from="1618408877215" duration="1860000" />
+      <workItem from="1618411077877" duration="1719000" />
+      <workItem from="1618998055668" duration="966000" />
+      <workItem from="1618999452751" duration="833000" />
+      <workItem from="1619001302287" duration="748000" />
+      <workItem from="1619003186942" duration="992000" />
+      <workItem from="1619005007347" duration="398000" />
+      <workItem from="1619088829065" duration="1433000" />
+      <workItem from="1619090673769" duration="1759000" />
+      <workItem from="1619092541463" duration="1858000" />
+      <workItem from="1619094518770" duration="1780000" />
+      <workItem from="1619270498456" duration="1857000" />
+      <workItem from="1619272401003" duration="1746000" />
+      <workItem from="1619274440866" duration="1786000" />
+      <workItem from="1619276388602" duration="601000" />
+      <workItem from="1619440854994" duration="599000" />
+      <workItem from="1619442923652" duration="1022000" />
+      <workItem from="1619444841685" duration="1489000" />
+      <workItem from="1619503366874" duration="1797000" />
+      <workItem from="1619505234199" duration="1755000" />
+      <workItem from="1619507030653" duration="1807000" />
+      <workItem from="1619508926190" duration="1034000" />
+      <workItem from="1619553325350" duration="1782000" />
+      <workItem from="1620049253752" duration="1753000" />
+      <workItem from="1620051668137" duration="1747000" />
+      <workItem from="1620053452928" duration="1306000" />
+      <workItem from="1620108105640" duration="1629000" />
+      <workItem from="1620109856664" duration="1821000" />
+      <workItem from="1620111785141" duration="1841000" />
+      <workItem from="1620113669399" duration="1549000" />
+      <workItem from="1620496201572" duration="1789000" />
+      <workItem from="1620498032317" duration="1788000" />
+      <workItem from="1620499876857" duration="1621000" />
+      <workItem from="1620555864886" duration="1975000" />
+      <workItem from="1620557937566" duration="1097000" />
+      <workItem from="1620714851626" duration="2073000" />
+      <workItem from="1620717000863" duration="2578000" />
+      <workItem from="1620919116824" duration="594000" />
+      <workItem from="1620920936836" duration="1374000" />
+      <workItem from="1620922777535" duration="1751000" />
+      <workItem from="1620926754438" duration="1823000" />
+      <workItem from="1620928610274" duration="1864000" />
+      <workItem from="1620930538476" duration="599000" />
+      <workItem from="1620932365897" duration="1825000" />
+      <workItem from="1620934238991" duration="654000" />
+      <workItem from="1621237055776" duration="1281000" />
+      <workItem from="1621318159958" duration="1727000" />
+      <workItem from="1621319965772" duration="2691000" />
+      <workItem from="1621322690269" duration="1530000" />
+      <workItem from="1621369264290" duration="1245000" />
+      <workItem from="1621373352881" duration="1758000" />
+      <workItem from="1621375185371" duration="1704000" />
+      <workItem from="1621377159640" duration="1137000" />
+      <workItem from="1621616076930" duration="1044000" />
+      <workItem from="1621620187065" duration="1794000" />
+      <workItem from="1621921269966" duration="60000" />
+      <workItem from="1621924523373" duration="1940000" />
+      <workItem from="1621926520292" duration="2196000" />
+      <workItem from="1621928754823" duration="1953000" />
+      <workItem from="1621930776848" duration="677000" />
+      <workItem from="1622298088453" duration="660000" />
+      <workItem from="1622299284360" duration="599000" />
+      <workItem from="1622301269533" duration="599000" />
+      <workItem from="1622366998854" duration="599000" />
+      <workItem from="1622369553943" duration="1624000" />
+      <workItem from="1622371482525" duration="1102000" />
+      <workItem from="1622373322225" duration="598000" />
+      <workItem from="1622547301984" duration="135000" />
+      <workItem from="1622565271907" duration="1336000" />
+      <workItem from="1622567059101" duration="1801000" />
+      <workItem from="1623098119809" duration="904000" />
+      <workItem from="1623132518976" duration="1939000" />
+      <workItem from="1623134504185" duration="2318000" />
+      <workItem from="1623136882641" duration="1882000" />
+      <workItem from="1623138843095" duration="272000" />
+      <workItem from="1623423998743" duration="832000" />
+      <workItem from="1623425272931" duration="1796000" />
+      <workItem from="1623427102191" duration="1133000" />
+      <workItem from="1623578532506" duration="1346000" />
+      <workItem from="1623582041499" duration="885000" />
+      <workItem from="1623585002592" duration="1779000" />
+      <workItem from="1623586898787" duration="1459000" />
+      <workItem from="1623611448659" duration="1559000" />
+      <workItem from="1623613079337" duration="861000" />
+      <workItem from="1623651487300" duration="1716000" />
+      <workItem from="1623653295869" duration="2035000" />
+      <workItem from="1623655370608" duration="2366000" />
+      <workItem from="1623784265210" duration="383000" />
+      <workItem from="1623785348748" duration="1038000" />
+      <workItem from="1623787209635" duration="847000" />
+      <workItem from="1623789126953" duration="1945000" />
+      <workItem from="1623791106473" duration="1058000" />
+      <workItem from="1624210348528" duration="94000" />
+      <workItem from="1624210952336" duration="981000" />
+      <workItem from="1624302675856" duration="597000" />
+      <workItem from="1624304500218" duration="1824000" />
+      <workItem from="1624306406301" duration="1068000" />
+      <workItem from="1624308333755" duration="580000" />
+      <workItem from="1624358648299" duration="490000" />
+      <workItem from="1624370263336" duration="1911000" />
+      <workItem from="1624372277358" duration="1815000" />
+      <workItem from="1624374130579" duration="1812000" />
+      <workItem from="1624375978596" duration="1575000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="297649000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="0" width="1378" height="735" extended-state="1" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11306901" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.105726875" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/admin/templates/login.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="10" lean-forward="false" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="1" lean-forward="false" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/Simple Error/css4/style.css" />
+    <entry file="file://$PROJECT_DIR$/admin/Simple Error/4040.html" />
+    <entry file="file://$PROJECT_DIR$/admin/4040.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="16" lean-forward="true" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="2" lean-forward="false" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/exit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="1" lean-forward="false" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/delivery.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="25" lean-forward="false" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/templates/index_watch.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="9" lean-forward="false" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/index_watch.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="1" lean-forward="false" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/add_watch.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="57" lean-forward="false" selection-start-line="31" selection-start-column="57" selection-end-line="31" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/templates/edit_page.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="66" lean-forward="false" selection-start-line="7" selection-start-column="66" selection-end-line="7" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/edit_watch.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="31" lean-forward="false" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/templates/index_cat.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="25" lean-forward="false" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="25" lean-forward="false" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/cataloge.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="34" lean-forward="false" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/filtr_sort.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="56" lean-forward="false" selection-start-line="27" selection-start-column="56" selection-end-line="27" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/info_id.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="51" lean-forward="false" selection-start-line="15" selection-start-column="51" selection-end-line="15" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/listalka_sort.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="8" lean-forward="false" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/coin-slider.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/listalka_filtr.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="17" lean-forward="false" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/listalka_filtr.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="36" lean-forward="false" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sort.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="1" lean-forward="false" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/listalka_sort.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/filtr.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="1" lean-forward="false" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/filtr.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="5" lean-forward="false" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/info_id.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="5" lean-forward="false" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/listalka_sort_filtr.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="19" lean-forward="false" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/basket.tpl" />
+    <entry file="file://$PROJECT_DIR$/templates/filtr_sort.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="111" lean-forward="false" selection-start-line="5" selection-start-column="111" selection-end-line="5" selection-end-column="111" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/listalka_sort_filrt.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-29">
+          <caret line="5" column="145" lean-forward="false" selection-start-line="5" selection-start-column="145" selection-end-line="5" selection-end-column="145" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/listalka.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="51" lean-forward="false" selection-start-line="33" selection-start-column="39" selection-end-line="33" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/card" />
+    <entry file="file://$PROJECT_DIR$/templates/listalka.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="13" lean-forward="false" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/search.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="21" lean-forward="false" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/sort.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="35" lean-forward="true" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kontakt.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="16" lean-forward="false" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/search.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="21" lean-forward="false" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cataloge.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="49" lean-forward="false" selection-start-line="16" selection-start-column="49" selection-end-line="16" selection-end-column="49" />
+          <folding>
+            <marker date="1623136820334" expanded="true" signature="60:97" ph="Select id,na... watch" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/index_cat.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="32" lean-forward="false" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
+          <folding>
+            <marker date="1618299240721" expanded="true" signature="390:420" ph="Select id,na... categories" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="2" lean-forward="true" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/card.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="11" lean-forward="false" selection-start-line="26" selection-start-column="11" selection-end-line="26" selection-end-column="11" />
+          <folding>
+            <marker date="1623613011663" expanded="true" signature="102:122" ph="Select id fr... watch" />
+            <marker date="1623613011663" expanded="true" signature="388:447" ph="Select id,na... watch" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/card.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="41" lean-forward="false" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1105">
+          <caret line="74" column="5" lean-forward="false" selection-start-line="74" selection-start-column="5" selection-end-line="74" selection-end-column="5" />
+          <folding>
+            <marker date="1623654633819" expanded="true" signature="749:853" ph="Select meta_... setting_page" />
+            <marker date="1623654633819" expanded="true" signature="1873:1932" ph="Select page,... setting_page" />
+            <marker date="1623654633819" expanded="true" signature="2340:2370" ph="Select id,na... categories" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/main.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="158" column="14" lean-forward="true" selection-start-line="158" selection-start-column="14" selection-end-line="158" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basket.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+          <folding>
+            <marker date="1624376350190" expanded="true" signature="638:685" ph="Select name,... watch" />
+            <marker date="1624376350190" expanded="true" signature="638:698" ph="Select id,na... watch" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/order.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="30" lean-forward="true" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+          <folding>
+            <marker date="1624376863204" expanded="true" signature="246:279" ph="Select kolvo... watch" />
+            <marker date="1624376863204" expanded="true" signature="246:292" ph="Select kolvo... watch" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/order.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="14" lean-forward="true" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

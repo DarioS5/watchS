@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="b83aa9f9-3116-4a26-826c-cb987995e813" name="smarty" url="http://smarty">
+        <fileTransfer port="0" mountedRoot="E:\OpenServer\domains\smarty" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>

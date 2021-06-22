@@ -1,0 +1,27 @@
+<?php
+session_start();
+if(isset($_COOKIE[session_name()]))
+{
+    setcookie(session_name(),"",time()-60*60*2);
+}
+if(isset($_COOKIE['userid']))
+{
+    setcookie("userid","",time()-60*60*2);
+}
+if(isset($_COOKIE['username']))
+{
+    setcookie("username","",time()-60*60*2);
+}
+if(isset($_COOKIE['userrole']))
+{
+    setcookie("userrole","",time()-60*60*2);
+}
+if(isset($_COOKIE['useravatar']))
+{
+    setcookie("useravatar","",time()-60*60*2);
+}
+$_SESSION=array();
+session_destroy();
+echo"succes";
+    header("refresh:3;url=../index.php");
+?>
